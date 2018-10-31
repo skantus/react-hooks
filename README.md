@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/skantus/react-hooks/blob/master/src/assets/gif.gif" width=640/>
+</p>
+
 ## Available Scripts
 
 In the project directory, you can run:
